@@ -1,7 +1,5 @@
 package com.company;
-
 public class dataType {
-
     public static void main(String[] args) {
         // that is data type in java
         System.out.println("That is : String");
