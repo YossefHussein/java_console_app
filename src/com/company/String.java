@@ -1,7 +1,8 @@
 package com.company;
-public class stringInJava {
+public class String {
     public static void main(String[] args) {
      String MyName = "youssef";
-     System.out.println(MyName);
+     String MyName2 = "hussein";
+     System.out.println(MyName + " " + MyName2);
     }
 }
