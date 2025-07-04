@@ -1,6 +1,6 @@
 package com.company;
 
-public class varible {
+public class Variable {
 
     public static void main(String[] args) {
         // that is varible in java  
